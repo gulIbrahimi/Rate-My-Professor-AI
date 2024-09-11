@@ -20,7 +20,7 @@ import {
 import { styled } from "@mui/system";
 import { Github, Linkedin, Mail, Menu } from "lucide-react";
 import Link from "next/link";
-import React, { useState } from "react";
+import { useState } from "react";
 
 const Navbar = styled(AppBar)({
   backgroundColor: "#2C3E50",

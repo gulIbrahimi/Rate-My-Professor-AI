@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   description:
     "Get personalized professor recommendations tailored to your needs.",
 };
+// here is a comment
 
 export default function RootLayout({
   children,
